@@ -33,7 +33,7 @@ import javax.xml.parsers.ParserConfigurationException;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String XML_URL = "https://www3.interrapidisimo.com/ApiservInter/api/Mensajeria/ObtenerRastreoGuias?guias=750001570809";
+    private static final String XML_URL = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
